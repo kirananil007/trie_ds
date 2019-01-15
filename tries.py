@@ -1,5 +1,6 @@
 from typing import Tuple
 
+#for object declaration
 class TrieNode(object):
 
 	# the Trie implementation. Initializing the nodes
